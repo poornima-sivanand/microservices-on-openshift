@@ -9,5 +9,12 @@
     "mongoose": "^4.4.5",
     "morgan": "^1.7.0",
     "request-json": "^0.5.5"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "1.0.0",
+  "author": "",
+  "license": "Apache-2.0",
+  "description": ""
 }
